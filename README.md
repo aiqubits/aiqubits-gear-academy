@@ -35,6 +35,6 @@ pebbles-game
 
 The `pebbles-game-io` will contains type definitions for input, output, and internal state data.
 
+https://idea.gear-tech.io/programs/0x849054a5c3fa3dcce136ed3196634d1af055217df03324ba2a0a72756479012a?node=wss%3A%2F%2Ftestnet.vara.network
 
-
-
+![Alt text](17191623856201.jpg)
